@@ -1,0 +1,8 @@
+{
+    "name": "discordofpowers",
+    "version": "0.0.1",
+    "description": "Game of negotiations set in the rise of XX century",
+    "main": "bot.py",
+    "author": "Adam Leczkowski",
+    "dependencies": {}
+}
